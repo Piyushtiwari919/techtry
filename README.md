@@ -1,4 +1,4 @@
 # techtry
 this is my first git repository.
 <br>
-Author - Piyush Tiwari
+Author - Piyush Tiwari coder
